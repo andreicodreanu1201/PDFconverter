@@ -22,12 +22,12 @@ A Python script that combines multiple PDF files into a single document with nat
 
 Clone this repository:
 
-bash
+in bash / vscode terminal :
 git clone https://github.com/andreicodreanu1201/pdfMerger.git  
 
 Install the required dependency:
 
-bash
+in bash / vscode terminal :
 pip install PyPDF2  
 
 # Usage
@@ -36,7 +36,7 @@ Place all PDF files you want to merge in the same directory as the script
 
 Run the script:
 
-bash
+in bash / vscode terminal :
 python pdfMerger.py  
 
 The merged PDF will be saved as combined.pdf in the same directory
