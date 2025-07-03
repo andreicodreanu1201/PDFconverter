@@ -1,4 +1,4 @@
-# PDFconverter
+# pdfMerger
 A Python script that combines multiple PDF files into a single document with natural sorting (human-friendly numbered order).
 
 # Features
@@ -23,7 +23,7 @@ A Python script that combines multiple PDF files into a single document with nat
 Clone this repository:
 
 bash
-git clone https://github.com/andreicodreanu1201/PDFconverter.git  
+git clone https://github.com/andreicodreanu1201/pdfMerger.git  
 
 Install the required dependency:
 
@@ -37,7 +37,7 @@ Place all PDF files you want to merge in the same directory as the script
 Run the script:
 
 bash
-python PDFconverter.py  
+python pdfMerger.py  
 
 The merged PDF will be saved as combined.pdf in the same directory
 
